@@ -2,9 +2,9 @@
 ![cloud_resume_challenge(1)](https://github.com/lorenzopoulet/cloud_resume_challenge/assets/141220777/0b08263d-fac9-4230-b58a-7f36a844b90d)
 Welcome to my journey across the cloud resume challenge.
 The cloud resume challenge is designed to help individuals learn cloud computing concepts and gain practical experience by building a resume-style website and deploying it on a cloud platform. For this purpose, I chose to use AWS as this is the platform, I am most familiar with. 
-## Step 1: Get certified
+## STEP 1: Get certified
 The first step of this challenge is to get certified. As I already own the AWS cloud practitioner and solutions architect associate certifications, I just skipped this step.
-## Step 2-3: HTML CSS
+## STEP 2-3: HTML CSS
 The main of goal of these steps was to create a webpage to be displayed when loading the website.
 As I had a bit of previous experience with html and css I managed to create a very basic resume but it was on my opinion not very good looking. Here is what I have done:
 I therefore decided to improve it to give it a more appealing look and to make it responsive. I had to pickup javascript to add a little of dynamic effects.
