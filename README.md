@@ -1,5 +1,6 @@
 # cloud_resume_challenge
 ![cloud_resume_challenge(1)](https://github.com/lorenzopoulet/cloud_resume_challenge/assets/141220777/0b08263d-fac9-4230-b58a-7f36a844b90d)
+***
 Welcome to my journey across the cloud resume challenge.
 The cloud resume challenge is designed to help individuals learn cloud computing concepts and gain practical experience by building a resume-style website and deploying it on a cloud platform. For this purpose, I chose to use AWS as this is the platform, I am most familiar with. 
 ## STEP 1: Get certified
